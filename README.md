@@ -1,5 +1,3 @@
-# local-llm-rag-project
-
 # Local LLM Resume Retrieval (RAG Project)
 
 This project demonstrates how to build a local Retrieval-Augmented Generation (RAG) system using Ollama and LangChain.  
